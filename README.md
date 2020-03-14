@@ -1,2 +1,2 @@
 # IET-Puzzles
-Decrypt message
+Decrypts message using xor function
